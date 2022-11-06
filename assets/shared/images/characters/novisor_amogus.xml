@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="novisor_amogus.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="novisor0000" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0000" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0001" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0002" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0003" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0004" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0005" x="0" y="0" width="322" height="382"/>
+	<SubTexture name="novisor smilies0006" x="422" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0007" x="422" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0008" x="853" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0009" x="1284" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0010" x="1715" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0011" x="1715" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0012" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0013" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0014" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0015" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0016" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0017" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0018" x="2146" y="0" width="331" height="382"/>
+	<SubTexture name="novisor smilies0019" x="2146" y="0" width="331" height="382"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+:pr:confused:Dios no puedo ver nada
+:pr:confused:Mejor prendo mi linterna
+:pav:normal:...
+:pav:scared:AHHHHHHH
+:pav:normal:Espera Shhhh, ¿sabías que Novisor está perdido y nos mata a todos?
+:pav:pissed:Oye, deja de decir todo lo que estoy diciendo.
+:pav:pissed:¿Yo? tu eres el que esta copiando
+:pav:pissed:¡Detente, no tú! ¡En serio!
+:pav:pissed:¡PARA TÍO!
+:v:confused:Bien, pero sobre todo porque tengo miedo de que Novisor nos persiga y nos atrape en este juego para siempre.
+:pr:normal:Así que los rumores son ciertos, ¿eh?
+:pr:normal:¿Realmente hay un fantasma vagando por los pasillos del Skeld en busca de nuevas víctimas?
+:v:normal:Sí. Y no un fantasma regular que ayuda a hacer tareas y esas cosas.
+:v:normal:Un verdadero fantasma legítimo. Un alma olvidada que vadea aquí entre nuestro mundo y el más allá.
+:b:normal:¡Hola, chicos!
+:p:normal:Hola BF!
+:b:normal:Entonces, ¿qué están haciendo ustedes?
+:p:normal:Nada, la veterana está diciendo algo de un fantasma legítimo
+:v:normal:Es Novisor, Jugador. Novisor!
+:pr:normal:Ah, OK
+:p:normal:Pero, ¿has conocido a Novisor BF?
+:b:confused:¿No?
+:p:normal:¡Diablos, nunca supe de Novisor!
+:v:normal:Eso sucedió hace mucho tiempo, Novisor solía ser un tipo normal como tú o como yo.
+:pab:normal:¿En serio?
+:pr:normal:Nunca había escuchado esa parte de la historia antes.
+:p:excited:¡Oye, BF, necesito algo de ritmo para esto!
+:b:excited:¡Ay, está encendido!

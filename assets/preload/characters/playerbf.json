@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "player idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "player left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "player down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "player up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-28
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS player down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS player up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS player left"
+		},
+		{
+			"offsets": [
+				-22,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISS player right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "GAME OVER",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-14
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GAME OVER loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-10
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "GAME OVER enter",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "player right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playerbf",
+	"position": [
+		-200,
+		-550
+	],
+	"healthicon": "playerbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pmong.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pmong down0000" x="0" y="0" width="563" height="451" frameX="0" frameY="-26" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong down0001" x="563" y="0" width="554" height="453" frameX="-10" frameY="-22" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong down0002" x="1117" y="0" width="547" height="471" frameX="-19" frameY="0" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong down0003" x="1664" y="0" width="544" height="470" frameX="-19" frameY="-2" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong down0004" x="2208" y="0" width="543" height="472" frameX="-20" frameY="0" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong down0005" x="2208" y="0" width="543" height="472" frameX="-20" frameY="0" frameWidth="566" frameHeight="477"/>
+	<SubTexture name="pmong idle0000" x="2751" y="0" width="556" height="447" frameX="-1" frameY="-14" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0001" x="2751" y="0" width="556" height="447" frameX="-1" frameY="-14" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0002" x="3307" y="0" width="544" height="459" frameX="-1" frameY="-3" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0003" x="3851" y="0" width="542" height="459" frameX="0" frameY="-3" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0004" x="4393" y="0" width="541" height="461" frameX="-4" frameY="-1" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0005" x="4934" y="0" width="543" height="461" frameX="-4" frameY="-1" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0006" x="5477" y="0" width="540" height="462" frameX="-4" frameY="0" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0007" x="5477" y="0" width="540" height="462" frameX="-4" frameY="0" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0008" x="6017" y="0" width="540" height="462" frameX="-4" frameY="0" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong idle0009" x="6017" y="0" width="540" height="462" frameX="-4" frameY="0" frameWidth="557" frameHeight="462"/>
+	<SubTexture name="pmong left0000" x="6557" y="0" width="586" height="446" frameX="0" frameY="-8" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong left0001" x="7143" y="0" width="586" height="448" frameX="-2" frameY="-6" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong left0002" x="0" y="472" width="577" height="454" frameX="-21" frameY="0" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong left0003" x="577" y="472" width="574" height="453" frameX="-21" frameY="-1" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong left0004" x="1151" y="472" width="573" height="454" frameX="-22" frameY="0" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong left0005" x="1151" y="472" width="573" height="454" frameX="-22" frameY="0" frameWidth="598" frameHeight="454"/>
+	<SubTexture name="pmong right0000" x="1724" y="472" width="605" height="465" frameX="-12" frameY="-1" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong right0001" x="2329" y="472" width="605" height="466" frameX="-10" frameY="0" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong right0002" x="2934" y="472" width="596" height="463" frameX="0" frameY="-3" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong right0003" x="3530" y="472" width="595" height="461" frameX="-2" frameY="-5" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong right0004" x="4125" y="472" width="593" height="461" frameX="-2" frameY="-5" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong right0005" x="4125" y="472" width="593" height="461" frameX="-2" frameY="-5" frameWidth="617" frameHeight="466"/>
+	<SubTexture name="pmong tapin mic0000" x="4718" y="472" width="540" height="462" frameX="-104" frameY="-13" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0001" x="5258" y="472" width="554" height="462" frameX="-126" frameY="-13" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0002" x="5812" y="472" width="606" height="446" frameX="-107" frameY="-31" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0003" x="6418" y="472" width="597" height="456" frameX="-137" frameY="-22" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0004" x="7015" y="472" width="591" height="454" frameX="-130" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0005" x="0" y="938" width="601" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0006" x="601" y="938" width="601" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0007" x="1202" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0008" x="1788" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0009" x="2374" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0010" x="2960" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0011" x="3546" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0012" x="3546" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0013" x="3546" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0014" x="4132" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0015" x="4132" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0016" x="4718" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0017" x="4718" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0018" x="5304" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0019" x="5304" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0020" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0021" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0022" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0023" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0024" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0025" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0026" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0027" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0028" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0029" x="5890" y="938" width="586" height="455" frameX="-133" frameY="-24" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0030" x="6476" y="938" width="576" height="457" frameX="-143" frameY="-22" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0031" x="7052" y="938" width="601" height="456" frameX="-148" frameY="-21" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0032" x="0" y="1395" width="586" height="438" frameX="-142" frameY="-39" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0033" x="586" y="1395" width="545" height="474" frameX="-169" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0034" x="1131" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0035" x="1684" y="1395" width="545" height="461" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0036" x="1684" y="1395" width="545" height="461" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0037" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0038" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0039" x="1684" y="1395" width="545" height="461" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0040" x="2782" y="1395" width="547" height="469" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0041" x="2782" y="1395" width="547" height="469" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0042" x="2782" y="1395" width="547" height="469" frameX="-177" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0043" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0044" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0045" x="3329" y="1395" width="543" height="461" frameX="-179" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0046" x="3329" y="1395" width="543" height="461" frameX="-179" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0047" x="3872" y="1395" width="555" height="461" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0048" x="3872" y="1395" width="555" height="461" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0049" x="4427" y="1395" width="559" height="461" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0050" x="4427" y="1395" width="559" height="461" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0051" x="4986" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0052" x="4986" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0053" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0054" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0055" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0056" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0057" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0058" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0059" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0060" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0061" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0062" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0063" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0064" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0065" x="6108" y="1395" width="560" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0066" x="6108" y="1395" width="560" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0067" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0068" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0069" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0070" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0071" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0072" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0073" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0074" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0075" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0076" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0077" x="2229" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0078" x="3329" y="1395" width="543" height="461" frameX="-179" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0079" x="3329" y="1395" width="543" height="461" frameX="-179" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0080" x="3872" y="1395" width="555" height="461" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0081" x="3872" y="1395" width="555" height="461" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0082" x="4427" y="1395" width="559" height="461" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0083" x="4427" y="1395" width="559" height="461" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0084" x="4986" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0085" x="4986" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0086" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0087" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0088" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0089" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0090" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0091" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0092" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0093" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0094" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0095" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0096" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0097" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0098" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0099" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0100" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0101" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0102" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0103" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0104" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0105" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0106" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0107" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0108" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0109" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0110" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0111" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0112" x="5547" y="1395" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0113" x="6668" y="1395" width="553" height="462" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0114" x="7221" y="1395" width="556" height="467" frameX="-167" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0115" x="0" y="1869" width="555" height="488" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0116" x="555" y="1869" width="555" height="483" frameX="-176" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0117" x="1110" y="1869" width="559" height="488" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0118" x="1669" y="1869" width="559" height="488" frameX="-175" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0119" x="2228" y="1869" width="560" height="483" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0120" x="2788" y="1869" width="561" height="474" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0121" x="3349" y="1869" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0122" x="3910" y="1869" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0123" x="4471" y="1869" width="559" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0124" x="5030" y="1869" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0125" x="5591" y="1869" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0126" x="5591" y="1869" width="561" height="461" frameX="-174" frameY="-14" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0127" x="6152" y="1869" width="566" height="457" frameX="-169" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0128" x="6152" y="1869" width="566" height="457" frameX="-169" frameY="-18" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0129" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0130" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0131" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0132" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0133" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0134" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0135" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0136" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0137" x="6718" y="1869" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0138" x="7284" y="1869" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0139" x="7284" y="1869" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0140" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0141" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0142" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0143" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0144" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0145" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0146" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0147" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0148" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0149" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0150" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0151" x="566" y="2357" width="561" height="456" frameX="-173" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0152" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0153" x="0" y="2357" width="566" height="456" frameX="-169" frameY="-19" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0154" x="1127" y="2357" width="585" height="452" frameX="-154" frameY="-23" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0155" x="1127" y="2357" width="585" height="452" frameX="-154" frameY="-23" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0156" x="1127" y="2357" width="585" height="452" frameX="-154" frameY="-23" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0157" x="1127" y="2357" width="585" height="452" frameX="-154" frameY="-23" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0158" x="1127" y="2357" width="585" height="452" frameX="-154" frameY="-23" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0159" x="1712" y="2357" width="604" height="429" frameX="-144" frameY="-46" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0160" x="1712" y="2357" width="604" height="429" frameX="-144" frameY="-46" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0161" x="2316" y="2357" width="708" height="503" frameX="0" frameY="-13" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0162" x="3024" y="2357" width="712" height="497" frameX="0" frameY="-13" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0163" x="3736" y="2357" width="710" height="509" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0164" x="4446" y="2357" width="722" height="509" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0165" x="5168" y="2357" width="718" height="482" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0166" x="5886" y="2357" width="721" height="456" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0167" x="6607" y="2357" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0168" x="7327" y="2357" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0169" x="0" y="2866" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0170" x="0" y="2866" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0171" x="0" y="2866" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0172" x="0" y="2866" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0173" x="0" y="2866" width="720" height="449" frameX="-13" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0174" x="720" y="2866" width="706" height="449" frameX="-37" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0175" x="720" y="2866" width="706" height="449" frameX="-37" frameY="-28" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0176" x="1426" y="2866" width="545" height="474" frameX="-213" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0177" x="1971" y="2866" width="546" height="474" frameX="-215" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0178" x="2517" y="2866" width="549" height="468" frameX="-207" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0179" x="2517" y="2866" width="549" height="468" frameX="-207" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0180" x="1426" y="2866" width="545" height="474" frameX="-213" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0181" x="3066" y="2866" width="546" height="474" frameX="-215" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0182" x="3612" y="2866" width="549" height="468" frameX="-207" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0183" x="3612" y="2866" width="549" height="468" frameX="-207" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0184" x="4161" y="2866" width="549" height="468" frameX="-207" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0185" x="4710" y="2866" width="546" height="474" frameX="-215" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0186" x="5256" y="2866" width="545" height="474" frameX="-213" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0187" x="5801" y="2866" width="545" height="474" frameX="-213" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0188" x="6346" y="2866" width="543" height="474" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0189" x="6889" y="2866" width="543" height="474" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0190" x="7432" y="2866" width="544" height="476" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0191" x="0" y="3342" width="544" height="476" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0192" x="544" y="3342" width="544" height="476" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0193" x="544" y="3342" width="544" height="476" frameX="-216" frameY="0" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0194" x="1088" y="3342" width="530" height="486" frameX="-206" frameY="-4" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0195" x="1088" y="3342" width="530" height="486" frameX="-206" frameY="-4" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0196" x="1618" y="3342" width="524" height="490" frameX="-202" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0197" x="1618" y="3342" width="524" height="490" frameX="-202" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0198" x="2142" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0199" x="2142" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0200" x="2665" y="3342" width="523" height="493" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0201" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0202" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0203" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0204" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0205" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0206" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0207" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong tapin mic0208" x="3188" y="3342" width="523" height="492" frameX="-200" frameY="-6" frameWidth="761" frameHeight="537"/>
+	<SubTexture name="pmong up0000" x="3711" y="3342" width="567" height="488" frameX="-4" frameY="0" frameWidth="579" frameHeight="488"/>
+	<SubTexture name="pmong up0001" x="4278" y="3342" width="567" height="484" frameX="-4" frameY="-3" frameWidth="579" frameHeight="488"/>
+	<SubTexture name="pmong up0002" x="4845" y="3342" width="579" height="469" frameX="0" frameY="-18" frameWidth="579" frameHeight="488"/>
+	<SubTexture name="pmong up0003" x="5424" y="3342" width="576" height="470" frameX="-1" frameY="-17" frameWidth="579" frameHeight="488"/>
+	<SubTexture name="pmong up0004" x="6000" y="3342" width="577" height="470" frameX="-1" frameY="-17" frameWidth="579" frameHeight="488"/>
+	<SubTexture name="pmong up0005" x="6000" y="3342" width="577" height="470" frameX="-1" frameY="-17" frameWidth="579" frameHeight="488"/>
+</TextureAtlas>

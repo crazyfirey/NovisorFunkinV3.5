@@ -1,0 +1,30 @@
+:v:normal:Tudo começou com um jovem estudante universitário chamado Aiden que estava fazendo compras em um mercado de pulgas. Veja, esse cara não tinha muito dinheiro, mas precisava encontrar um PC que funcionasse para o dever de casa e outras coisas.
+:pr:confused:Gosta de videogame?
+:v:normal:Certo. Ele pensou que poderia encontrar algo por um preço decente lá.
+:v:normal:Mas muito ruim no final
+:v:normal:ele pagou o preço final.
+:b:normal:então o que está acontecendo.
+:b:confused:Hã?
+:a:normal:Uau.
+:a:normal:Olhe para este pedaço de lixo.
+:dr:normal:Pode não parecer muito.
+:dr:excited:Mas essa coisa tem muitos dos mais recentes avanços na tecnologia de jogos.
+:a:normal:Legal.
+:a:confused:Então você é o cara que está vendendo essa coisa?
+:a:confused:Que tipo de computador é? Não vejo nenhuma marca.
+:dr:excited:Isso porque não há nenhum.
+:dr:excited:É 100% feito sob encomenda.
+:dr:excited:Eu mexo nos fins de semana, você vê.
+:a:normal:Hum, que legal.
+:b:normal:olá
+:d:normal:ei, quem é você?
+:b:normal:Eu sou bf, eu faço rap com pessoas de batalha e dou groove.
+:a:normal:legal.
+:b:normal:qual o seu nome
+:d:normal:Meu nome é Duncan. Duncan Swearinger Cortez O'barclay Gottenheimer.
+:b:confused:...
+:d:normal:Fui criado por um quádruplo poliamoroso
+:b:normal:a propósito, você quer algum groove?
+:d:confused:ahhh, com certeza.
+:d:excited:Vamos ver como você pode fazer.
+:b:excited:certa!

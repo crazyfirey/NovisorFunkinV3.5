@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Report_Stage_people.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cafe bg instance 10000" x="0" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10001" x="0" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10002" x="2761" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10003" x="2761" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10004" x="5522" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10005" x="5522" y="0" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10006" x="0" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10007" x="0" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10008" x="2761" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10009" x="2761" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10010" x="5522" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10011" x="5522" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10012" x="5522" y="1045" width="2661" height="945"/>
+	<SubTexture name="cafe bg instance 10013" x="5522" y="1045" width="2661" height="945"/>
+</TextureAtlas>

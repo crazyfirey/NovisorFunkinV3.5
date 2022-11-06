@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "corrupted left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				22
+			],
+			"anim": "idle",
+			"fps": 1,
+			"name": "corrupted left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "corrupted down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				19
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "corrupted up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "corrupted right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS corrupted right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS corrupted left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				23
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISS corrupted up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS corrupted down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/corrupted",
+	"position": [
+		-200,
+		-550
+	],
+	"healthicon": "corrupted",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

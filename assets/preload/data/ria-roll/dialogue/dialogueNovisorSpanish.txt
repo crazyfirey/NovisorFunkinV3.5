@@ -1,0 +1,20 @@
+:r:excited:¡Hola, chicos!
+:b:scared:AHHHH!
+:b:confused:Vaya
+:b:confused:es solo una dama novata. Um... uh... cena. Mi nombre es BF, 'Ese chico delgado' para abreviar.
+:pr:confused:hola ria
+:pr:confused:Lo siento, pero este es un mal momento para las presentaciones.
+:r:confused:diré
+:r:normal:ustedes tres se ven como si acabaran de ver un fantasma.
+:pr:normal:¡Espera, eso es todo!
+:pr:normal:Novisor!
+:pr:normal:¡Él es el que está detrás de nosotros! ¿Te acuerdas ahora, veterano?
+:v:confused:¿Quieres decir que recuerdo la noche inolvidable de un horror indescriptible?
+:v:normal:nop
+:v:normal:realmente no. Cerebro de pez dorado, ¿recuerdas?
+:v:normal:Pero de cualquier manera, Novisor solo persigue a la Skeld.
+:v:normal:Deberíamos estar a salvo aquí en Mira, donde solo otros humanos quieren asesinarnos.
+:r:confused:¡Espera espera espera!
+:r:confused:¿Ustedes creen seriamente en Novisor?
+:r:normal:Todos saben que él es solo una leyenda urbana.
+:b:confused:OK entonces

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "novisor0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "novisor0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "novisor0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "novisor0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "novisor0"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "smile",
+			"indices": [],
+			"name": "novisor"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/novisor_amogus",
+	"position": [
+		80,
+		340
+	],
+	"healthicon": "novisor",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

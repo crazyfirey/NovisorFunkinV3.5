@@ -1,0 +1,39 @@
+{
+	"storyName": "Beginning",
+	"hideFreeplay": false,
+	"weekBackground": "communications",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Skeld",
+			"player",
+			[
+				255,
+				40,
+				40
+			]
+		],
+		[
+			"Lights",
+			"veteran",
+			[
+				255,
+				180,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Beginning"
+}

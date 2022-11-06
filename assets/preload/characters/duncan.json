@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "duncan idle"
+		},
+		{
+			"offsets": [
+				62,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "duncan up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "duncan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-43
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "duncan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "duncan right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				2
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "duncan hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Duncan_Assets",
+	"position": [
+		0,
+		220
+	],
+	"healthicon": "duncan",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-70,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

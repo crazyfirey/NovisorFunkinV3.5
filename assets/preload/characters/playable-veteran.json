@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-49,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-23,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Veteran_Assets",
+	"position": [
+		30,
+		330
+	],
+	"healthicon": "veteran",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-60,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

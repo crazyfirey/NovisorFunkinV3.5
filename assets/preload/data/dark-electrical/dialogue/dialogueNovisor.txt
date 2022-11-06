@@ -1,0 +1,30 @@
+:v:normal:Speak for yourself guys
+:v:normal:I confess!
+:v:pissed:I killed Chiapad! or whatever her name was
+:e:excited:Aha!
+:e:excited:I knew it!
+:pr:confused:Veteran, what are you doing!?
+:v:normal:I'd rather be launched into a bottomless pit of despair than become some No-Visor freak.
+:v:excited:Good luck with all of that by the way, buds!
+:pr:scared:WAIT NOOOO!!!!!!
+:e:normal:oh.
+:e:normal:I though he was the impostor
+:e:normal:You told the truth Player.
+:pr:pissed:I TOLD YOU!
+:pr:confused:Novisor's the real enemy here!
+:pr:confused:Now we gotta end this game before it's too late!
+:g:normal:From what I've heard, this Novisor fellow won't make it that easy. We'll have to beat him at his own game.
+:pr:confused:Crap, the lights went out!
+:g:normal:Let me take a look
+:g:excited:There it is! Finally!
+:g:excited:Oh won't this nightmare ever end?
+:g:normal:Calm down you old coot, you can do this!
+:g:normal:Beanie boy is couching on you.
+:b:normal:Hey
+:g:normal:Hey
+:g:normal:What are you doing here
+:b:confused:Im here in the office for a task
+:g:normal:Ok then
+:b:confused:Do you think we can something right now
+:g:normal:Sure
+:g:normal:but make it quick

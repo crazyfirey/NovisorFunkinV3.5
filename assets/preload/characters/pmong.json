@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pmong idle"
+		},
+		{
+			"offsets": [
+				4,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pmong up"
+		},
+		{
+			"offsets": [
+				25,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pmong down"
+		},
+		{
+			"offsets": [
+				8,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pmong right"
+		},
+		{
+			"offsets": [
+				75,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pmong left"
+		},
+		{
+			"offsets": [
+				99,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "event",
+			"loop": false,
+			"name": "pmong tapin mic"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pmong",
+	"position": [
+		-10,
+		240
+	],
+	"healthicon": "pmong",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		140,
+		120
+	],
+	"camera_position": [
+		90,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

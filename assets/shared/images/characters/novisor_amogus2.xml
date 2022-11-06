@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="novisor_amogus2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="novisor_down0000" x="0" y="0" width="410" height="341" frameX="0" frameY="-36" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0001" x="0" y="0" width="410" height="341" frameX="0" frameY="-36" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0002" x="510" y="0" width="376" height="366" frameX="-17" frameY="-11" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0003" x="510" y="0" width="376" height="366" frameX="-17" frameY="-11" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0004" x="986" y="0" width="363" height="375" frameX="-23" frameY="-2" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0005" x="986" y="0" width="363" height="375" frameX="-23" frameY="-2" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0006" x="1449" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0007" x="1449" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0008" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0009" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0010" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0011" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0012" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_down0013" x="1909" y="0" width="360" height="377" frameX="-25" frameY="0" frameWidth="410" frameHeight="377"/>
+	<SubTexture name="novisor_idle0000" x="2369" y="0" width="361" height="363" frameX="0" frameY="-19" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0001" x="2369" y="0" width="361" height="363" frameX="0" frameY="-19" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0002" x="2830" y="0" width="360" height="365" frameX="-4" frameY="-17" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0003" x="2830" y="0" width="360" height="365" frameX="-4" frameY="-17" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0004" x="0" y="477" width="340" height="377" frameX="-9" frameY="-5" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0005" x="0" y="477" width="340" height="377" frameX="-9" frameY="-5" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0006" x="440" y="477" width="332" height="381" frameX="-11" frameY="-1" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0007" x="440" y="477" width="332" height="381" frameX="-11" frameY="-1" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0008" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0009" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0010" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0011" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0012" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_idle0013" x="872" y="477" width="331" height="382" frameX="-11" frameY="0" frameWidth="364" frameHeight="382"/>
+	<SubTexture name="novisor_left0000" x="1303" y="477" width="416" height="382" frameX="0" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0001" x="1303" y="477" width="416" height="382" frameX="0" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0002" x="1819" y="477" width="411" height="383" frameX="-7" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0003" x="1819" y="477" width="411" height="383" frameX="-7" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0004" x="2330" y="477" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0005" x="2330" y="477" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0006" x="2839" y="477" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0007" x="2839" y="477" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0008" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0009" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0010" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0011" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0012" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_left0013" x="0" y="960" width="409" height="382" frameX="-10" frameY="0" frameWidth="419" frameHeight="383"/>
+	<SubTexture name="novisor_right0000" x="509" y="960" width="434" height="403" frameX="-1" frameY="0" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0001" x="509" y="960" width="434" height="403" frameX="-1" frameY="0" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0002" x="1043" y="960" width="435" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0003" x="1043" y="960" width="435" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0004" x="1578" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0005" x="1578" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0006" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0007" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0008" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0009" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0010" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0011" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0012" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_right0013" x="2112" y="960" width="434" height="397" frameX="0" frameY="-6" frameWidth="435" frameHeight="403"/>
+	<SubTexture name="novisor_up0000" x="2646" y="960" width="434" height="434" frameX="0" frameY="-3" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0001" x="2646" y="960" width="434" height="434" frameX="0" frameY="-3" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0002" x="0" y="1494" width="434" height="437"/>
+	<SubTexture name="novisor_up0003" x="0" y="1494" width="434" height="437"/>
+	<SubTexture name="novisor_up0004" x="534" y="1494" width="434" height="404" frameX="0" frameY="-33" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0005" x="534" y="1494" width="434" height="404" frameX="0" frameY="-33" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0006" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0007" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0008" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0009" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0010" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0011" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0012" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+	<SubTexture name="novisor_up0013" x="1068" y="1494" width="434" height="397" frameX="0" frameY="-40" frameWidth="434" frameHeight="437"/>
+</TextureAtlas>

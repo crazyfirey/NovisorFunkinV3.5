@@ -1,0 +1,30 @@
+:v:normal:Parlez pour vous les gars
+:v:normal:J'avoue !
+:v:pissed:J'ai tué Chiapad ! ou quel que soit son nom.
+:e:excited:Aha !
+:e:excited:Je le savais !
+:pr:confused:Vétéran, que faites-vous ?
+:v:normal:Je préfère être lancé dans un puits sans fond de désespoir plutôt que de devenir un monstre de No-Visor.
+:v:excited:Au fait, bonne chance avec tout ça, les gars !
+:pr:scared:WAIT NOOOO!!!!!!
+:e:normal:oh.
+:e:normal:Je pensais que c'était un imposteur.
+:e:normal:Tu as dit la vérité, Player.
+:pr:pissed:JE TE L'AVAIS DIT !
+:pr:confused:Novisor est le véritable ennemi ici !
+:pr:confused:Nous devons mettre fin à ce jeu avant qu'il ne soit trop tard !
+:g:normal:D'après ce que j'ai entendu, ce Novisor ne nous facilitera pas la tâche. Il va falloir le battre à son propre jeu.
+:pr:confused:Merde, les lumières se sont éteintes !
+:g:normal:Laissez-moi regarder.
+:g:excited:Le voilà ! Enfin !
+:g:excited:Oh, ce cauchemar ne finira-t-il jamais ?
+:g:normal:Calme-toi, vieux schnock, tu peux le faire !
+:g:normal:Le garçon à la peluche est en train de se coucher sur toi.
+:b:normal:Hey
+:g:normal:Hey
+:g:normal:Qu'est-ce que tu fais ici ?
+:b:confused:Je suis ici dans le bureau pour une mission.
+:g:normal:Alors, d'accord.
+:b:confused:Tu crois qu'on peut faire quelque chose maintenant ?
+:g:normal:Bien sûr
+:g:normal:Mais faites vite.

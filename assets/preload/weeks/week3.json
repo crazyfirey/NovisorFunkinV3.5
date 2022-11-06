@@ -1,0 +1,76 @@
+{
+	"storyName": "Return of Novisor",
+	"difficulties": "Normal, Mechanics",
+	"hideFreeplay": false,
+	"weekBackground": "return",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Mira HQ",
+			"player",
+			[
+				255,
+				40,
+				40
+			]
+		],
+		[
+			"Ria Roll",
+			"ria",
+			[
+				20,
+				255,
+				20
+			]
+		],
+		[
+			"Escape",
+			"legend-novisor",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Report",
+			"mregg",
+			[
+				226,
+				0,
+				253
+			]
+		],
+		[
+			"Dark Electrical",
+			"gentleman",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"No Escape",
+			"legend-novisor",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Week 3"
+}

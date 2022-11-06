@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Section_Buttons.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amogusHover0000" x="0" y="0" width="864" height="372"/>
+	<SubTexture name="amogusIdle0000" x="964" y="0" width="864" height="372"/>
+	<SubTexture name="extrasHover0000" x="1928" y="0" width="864" height="372"/>
+	<SubTexture name="extrasIdle0000" x="2892" y="0" width="864" height="372"/>
+	<SubTexture name="storyHover0000" x="0" y="472" width="864" height="372"/>
+	<SubTexture name="storyIdle0000" x="964" y="472" width="864" height="372"/>
+</TextureAtlas>

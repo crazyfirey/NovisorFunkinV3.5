@@ -1,0 +1,30 @@
+:v:normal:Sprecht für euch selbst, Jungs
+:v:normal:Ich gestehe!
+:v:pissed:Ich habe Chiapad getötet! oder wie auch immer ihr Name war
+:e:excited:Aha!
+:e:excited:Ich wusste es!
+:pr:confused:Veteran, was machst du da?
+:v:normal:Lieber stürze ich mich in einen bodenlosen Abgrund der Verzweiflung, als so ein No-Visor-Freak zu werden.
+:v:excited:Viel Glück mit all dem, übrigens, Kumpels!
+:pr:scared:WAIT NOOOO!!!!!!
+:e:normal:oh.
+:e:normal:Ich dachte, er wäre der Hochstapler
+:e:normal:Du hast die Wahrheit gesagt, Spieler.
+:pr:pissed:ICH HABE ES DIR GESAGT!
+:pr:confused:Novisor ist der wahre Feind hier!
+:pr:confused:Jetzt müssen wir das Spiel beenden, bevor es zu spät ist!
+:g:normal:Nach allem, was ich gehört habe, wird dieser Novisor es uns nicht so leicht machen. Wir müssen ihn mit seinen eigenen Waffen schlagen.
+:pr:confused:Verdammt, das Licht ist ausgegangen!
+:g:normal:Lass mich mal nachsehen.
+:g:excited:Da ist sie ja! Na endlich!
+:g:excited:Oh, wird dieser Albtraum jemals enden?
+:g:normal:Beruhige dich, du alter Kauz, du schaffst das!
+:g:normal:Beanie Boy liegt auf dir.
+:b:normal:Hey
+:g:normal:Hey
+:g:normal:Was machst du denn hier?
+:b:confused:Ich bin hier im Büro wegen einer Aufgabe.
+:g:normal:Also gut.
+:b:confused:Meinst du, wir können jetzt etwas machen?
+:g:normal:Klar.
+:g:normal:Aber mach es schnell.

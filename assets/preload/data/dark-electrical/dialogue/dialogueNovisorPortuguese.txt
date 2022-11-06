@@ -1,0 +1,30 @@
+:v:normal:Fale por você galera
+:v:normal:Eu confesso!
+:v:pissed:Eu matei Chiapad! ou qualquer que seja o nome dela
+:e:excited:Ah!
+:e:excited:Eu sabia!
+:pr:confused:Veterano, o que você está fazendo!?
+:v:normal:Prefiro ser lançada em um poço sem fundo de desespero do que me tornar uma aberração sem viseira.
+:v:excited:A propósito, boa sorte com tudo isso, amigos!
+:pr:scared:ESPERA NÃOOOO!!!!!!
+:e:normal:oh.
+:e:normal:Eu pensei que ele era o impostor
+:e:normal:Você disse a verdade Jogador.
+:pr:pissed:EU TE DISSE!
+:pr:confused:O Novisor é o verdadeiro inimigo aqui!
+:pr:confused:Agora temos que terminar este jogo antes que seja tarde demais!
+:g:normal:Pelo que ouvi, esse colega Novisor não facilitará tanto. Teremos que vencê-lo em seu próprio jogo.
+:pr:confused:Merda, as luzes se apagaram!
+:g:normal:Deixe-me ver
+:g:excited:Aí está! Finalmente!
+:g:excited:Oh, esse pesadelo nunca vai acabar?
+:g:normal:Acalme-se seu velho, você pode fazer isso!
+:g:normal:O menino gorro está deitando em você.
+:b:normal:Ei
+:g:normal:Ei
+:g:normal:O que você está fazendo aqui
+:b:confused:Estou aqui no escritório para uma tarefa
+:g:normal:OK então
+:b:confused:Você acha que podemos algo agora
+:g:normal:Clara
+:g:normal:mas faça isso rápido

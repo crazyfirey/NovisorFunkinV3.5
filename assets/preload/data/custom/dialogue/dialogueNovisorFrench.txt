@@ -1,0 +1,11 @@
+:d:excited:Hey, ce n'était pas vraiment mal!
+:d:excited:Cela me donne aussi des vibrations!
+:b:normal:content de l'entendre
+:a:normal:Mec, je veux avoir des vibrations !
+:a:normal:Bf, puis-je avoir des vibrations?
+:b:excited:Bien sûr!
+:a:excited:Très bien!
+:b:excited:Vous êtes prêt pour les vibrations !
+:a:excited:Oui, je suis tellement excité !
+:b:excited:Alors ok!
+:b:excited:Roulez la chanson !

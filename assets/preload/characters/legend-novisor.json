@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "legend idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "legend left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "legend down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				80
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "legend up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "legend right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/legend_novisor",
+	"position": [
+		-90,
+		0
+	],
+	"healthicon": "legend-novisor",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		190,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

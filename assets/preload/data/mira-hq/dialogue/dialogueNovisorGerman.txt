@@ -1,0 +1,43 @@
+:pr:normal:Oh.
+:pr:normal:Wow.
+:pr:confused:Was für ein seltsamer Traum!
+:pr:confused:Danach kann ich nie wieder einschlafen.
+:v:normal:Oh ja.
+:v:normal:Hey Alter.
+:pr:confused:Veteran?
+:pr:confused:Was machst du hier?
+:pr:confused:Was mache ich hier?
+:v:normal:Sieht so aus, als würden wir Among Us spielen
+:v:normal:wie immer.
+:v:normal:Nun, Zeit, unsere Aufgaben zu erledigen.
+:pr:normal:Festhalten!
+:pr:normal:Bist du nicht im geringsten besorgt, dass wir im Spiel aufgewacht sind?
+:v:normal:Alter
+:v:normal:Ich verbringe 18 Stunden am Tag damit, dieses Spiel zu spielen. So wie ich es sehe, hat mir das nur einen Spaziergang vom Computer meiner Mutter erspart.
+:pr:normal:Ich werde das nicht in Frage stellen
+:pr:normal:Aber Veteran, lass mich dich das fragen
+:pr:normal:Woran erinnern Sie sich zuletzt?
+:v:normal:Hmm.
+:v:normal:Nun, ich erinnere mich, dass jemand genau dort stand, wo du gerade bist
+:v:normal:fragte mich, was das Letzte ist, woran ich mich erinnere.
+:pr:normal:Ja. Das war ich
+:pr:normal:gerade vor zwei Sekunden.
+:v:normal:Oh! Richtig, richtig, richtig
+:v:normal:Entschuldigung, mein Gedächtnis ist zerstört. Ich habe einige Schläge auf den Kopf bekommen. Hat den alten Noggin wirklich durcheinander gebracht
+:v:normal:Ich muss aufhören, so viel unter Kokospalmen abzuhängen. Ich bin im Grunde ein Goldfisch, der an dieser Stelle spricht. Meine Kinderpsychiaterin Barbara nennt sie "Vergessen"
+:pr:confused:Warum gehst du zum Kinderpsychiater?
+:v:normal:Weil sie halb so teuer sind wie normale, duh.
+:v:normal:Getränke wirken ähnlich wie Happy Meals
+:pr:normal:Das ist auf keinen Fall wahr
+:v:normal:Wie kommt es dann, dass ich bei jedem Besuch mit einem brandneuen Spielzeug spielen darf?
+:pr:normal:Oh mein Gott, Veteran.
+:pr:confused:Hier stimmt etwas nicht, ich weiß es
+:pr:confused:Ich habe das Gefühl, als würde uns jemand beobachten
+:v:normal:Du meinst, außer allen?
+:pr:confused:Äh Veteran
+:pr:confused:das ist nur ein grob gezeichnetes Bild.
+:v:normal:Du bist einer, der redet
+:b:normal:Hey, was ist hier los
+:p:normal:hallo bf
+:p:normal:Ich bin nicht in der Stimmung, kann ich Schwingungen bekommen?
+:b:excited:ja sicher

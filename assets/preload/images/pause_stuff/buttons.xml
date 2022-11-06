@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="close_idle0000" x="0" y="0" width="336" height="82"/>
+	<SubTexture name="close_selected0000" x="436" y="0" width="336" height="82"/>
+	<SubTexture name="exit_idle0000" x="872" y="0" width="336" height="82"/>
+	<SubTexture name="exit_selected0000" x="0" y="182" width="336" height="82"/>
+	<SubTexture name="restart_idle0000" x="436" y="182" width="336" height="82"/>
+	<SubTexture name="restart_selected0000" x="872" y="182" width="336" height="82"/>
+	<SubTexture name="resume_idle0000" x="0" y="364" width="336" height="82"/>
+	<SubTexture name="resume_selected0000" x="436" y="364" width="336" height="82"/>
+	<SubTexture name="x_idle0000" x="872" y="364" width="64" height="63"/>
+	<SubTexture name="x_selected0000" x="872" y="364" width="64" height="63"/>
+</TextureAtlas>

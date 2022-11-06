@@ -1,0 +1,117 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "no vis idle LEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "no vis idle RIGHT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				64
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "no vis up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "no vis down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "no vis left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "no vis right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/madness",
+	"position": [
+		-30,
+		290
+	],
+	"healthicon": "legend-novisor",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		-70,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

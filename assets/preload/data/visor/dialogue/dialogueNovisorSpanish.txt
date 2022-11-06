@@ -1,0 +1,30 @@
+:v:normal:Todo comenzó con un joven estudiante universitario llamado Aiden que estaba haciendo algunas compras en un mercado de pulgas. Mira, este tipo no tenía mucho dinero, pero necesitaba encontrar una PC que funcionara para la tarea y otras cosas.
+:pr:confused:¿Te gustan los videojuegos?
+:v:normal:Derecha. Pensó que allí podría encontrar algo a un precio decente.
+:v:normal:Pero demasiado malo al final
+:v:normal:pagó el precio final.
+:b:normal:entonces que esta pasando
+:b:confused:¿eh?
+:a:normal:Guau.
+:a:normal:Mira este pedazo de chatarra.
+:dr:normal:Puede que no parezca mucho.
+:dr:excited:Pero esta cosa tiene muchos de los últimos avances en tecnología de juegos.
+:a:normal:Genial.
+:a:confused:¿Así que eres el tipo que está vendiendo esta cosa?
+:a:confused:¿Qué tipo de computadora es? No veo ninguna marca.
+:dr:excited:Eso es porque no hay ninguno.
+:dr:excited:Es 100% hecho a la medida.
+:dr:excited:Hago retoques los fines de semana, ya ves.
+:a:normal:Hmmm, eso es genial.
+:b:normal:Hola
+:d:normal:¿Hey Quién eres tú?
+:b:normal:Soy novio, hago rap contra la gente y doy ritmo.
+:a:normal:fría.
+:b:normal:what's your name
+:d:normal:Mi nombre es Duncan. Duncan Swearinger Cortez O'barclay Gottenheimer.
+:b:confundido:...
+:d:normal:Me raseó un cuádruple poliamoroso
+:b:normal:por cierto, ¿quieres un poco de ritmo?
+:d:confused:Uhhh segura
+:d:excited:Veamos cómo puedes hacerlo.
+:b:excited:bien!

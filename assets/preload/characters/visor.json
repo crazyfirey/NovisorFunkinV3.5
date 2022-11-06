@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Visor_Idle"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Visor_Left"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Visor_Right"
+		},
+		{
+			"offsets": [
+				0,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Visor_Up"
+		},
+		{
+			"offsets": [
+				-1,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Visor_Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Visor_Assets",
+	"position": [
+		70,
+		140
+	],
+	"healthicon": "visor",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

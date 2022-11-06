@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ria.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ria down0000" x="0" y="0" width="757" height="594" frameX="-4" frameY="-11" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria down0001" x="0" y="0" width="757" height="594" frameX="-4" frameY="-11" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria down0002" x="757" y="0" width="754" height="605" frameX="0" frameY="0" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria down0003" x="757" y="0" width="754" height="605" frameX="0" frameY="0" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria down0004" x="1511" y="0" width="759" height="604" frameX="0" frameY="-1" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria down0005" x="1511" y="0" width="759" height="604" frameX="0" frameY="-1" frameWidth="761" frameHeight="605"/>
+	<SubTexture name="ria idle0000" x="2270" y="0" width="678" height="603" frameX="-33" frameY="-8" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0001" x="2270" y="0" width="678" height="603" frameX="-33" frameY="-8" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0002" x="2948" y="0" width="688" height="606" frameX="-13" frameY="-5" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0003" x="2948" y="0" width="688" height="606" frameX="-13" frameY="-5" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0004" x="0" y="606" width="683" height="610" frameX="-4" frameY="-1" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0005" x="0" y="606" width="683" height="610" frameX="-4" frameY="-1" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0006" x="683" y="606" width="684" height="611" frameX="-1" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0007" x="683" y="606" width="684" height="611" frameX="-1" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0008" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0009" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0010" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0011" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0012" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0013" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria idle0014" x="1367" y="606" width="685" height="611" frameX="0" frameY="0" frameWidth="711" frameHeight="611"/>
+	<SubTexture name="ria left0000" x="2052" y="606" width="711" height="603" frameX="0" frameY="0" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria left0001" x="2052" y="606" width="711" height="603" frameX="0" frameY="0" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria left0002" x="2763" y="606" width="704" height="598" frameX="-14" frameY="-5" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria left0003" x="2763" y="606" width="704" height="598" frameX="-14" frameY="-5" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria left0004" x="0" y="1217" width="704" height="599" frameX="-18" frameY="-5" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria left0005" x="0" y="1217" width="704" height="599" frameX="-18" frameY="-5" frameWidth="722" frameHeight="604"/>
+	<SubTexture name="ria right0000" x="704" y="1217" width="887" height="602" frameX="-32" frameY="-11" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria right0001" x="704" y="1217" width="887" height="602" frameX="-32" frameY="-11" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria right0002" x="1591" y="1217" width="857" height="612" frameX="-2" frameY="0" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria right0003" x="1591" y="1217" width="857" height="612" frameX="-2" frameY="0" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria right0004" x="2448" y="1217" width="858" height="609" frameX="0" frameY="-3" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria right0005" x="2448" y="1217" width="858" height="609" frameX="0" frameY="-3" frameWidth="919" frameHeight="613"/>
+	<SubTexture name="ria up0000" x="3306" y="1217" width="736" height="661" frameX="0" frameY="0" frameWidth="749" frameHeight="661"/>
+	<SubTexture name="ria up0001" x="3306" y="1217" width="736" height="661" frameX="0" frameY="0" frameWidth="749" frameHeight="661"/>
+	<SubTexture name="ria up0002" x="0" y="1878" width="737" height="652" frameX="-7" frameY="-9" frameWidth="749" frameHeight="661"/>
+	<SubTexture name="ria up0003" x="0" y="1878" width="737" height="652" frameX="-7" frameY="-9" frameWidth="749" frameHeight="661"/>
+	<SubTexture name="ria up0004" x="737" y="1878" width="743" height="650" frameX="-6" frameY="-11" frameWidth="749" frameHeight="661"/>
+	<SubTexture name="ria up0005" x="737" y="1878" width="743" height="650" frameX="-6" frameY="-11" frameWidth="749" frameHeight="661"/>
+</TextureAtlas>

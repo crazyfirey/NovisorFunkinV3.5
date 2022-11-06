@@ -1,0 +1,43 @@
+:pr:normal:Oh.
+:pr:normal:Ouah.
+:pr:confused:quel rêve étrange !
+:pr:confused:Je ne pourrai jamais me rendormir après ça.
+:v:normal:Oh ouais.
+:v:normal:Salut mec.
+:pr:confused:Veteran?
+:pr:confused:Que faites-vous ici?
+:pr:confused:Qu'est ce que je fais ici?
+:v:normal:On dirait qu'on joue Among Us
+:v:normal:comme toujours.
+:v:normal:Eh bien, il est temps de faire nos tâches.
+:pr:normal:Tenir!
+:pr:normal:n'êtes-vous pas le moins du monde inquiet que nous nous soyons réveillés à l'intérieur du jeu ?
+:v:normal:Mec
+:v:normal:Je passe 18 heures par jour à jouer à ce jeu. La façon dont je le vois, cela m'a juste épargné une marche de l'ordinateur de ma mère.
+:pr:normal:je ne vais pas remettre ça en question
+:pr:normal:Mais Veteran, laissez-moi vous demander ceci
+:pr:normal:Quelle est la dernière chose dont vous vous souvenez ?
+:v:normal:Hmm.
+:v:normal:Eh bien, je me souviens de quelqu'un se tenant exactement là où vous êtes en ce moment
+:v:normal:me demandant quelle est la dernière chose dont je me souviens.
+:pr:normal:Ouais. C'était moi
+:pr:normal:il y a à peine deux secondes.
+:v:normal:Oh! Droit, droit, droit
+:v:normal:Désolé, ma mémoire est défoncée. J'ai pris pas mal de coups sur la tête. Vraiment foiré la vieille caboche
+:v:normal:Faut que j'arrête de traîner autant sous les cocotiers. Je suis essentiellement un poisson rouge qui parle à ce stade. Ma pédopsychiatre Barbara les appelle des "oublis"
+:pr:confused:Pourquoi consultez-vous un pédopsychiatre ?
+:v:normal:Parce qu'ils sont la moitié du prix des réguliers, duh.
+:v:normal:Les boissons fonctionnent de manière très similaire aux repas heureux
+:pr:normal:Il n'y a aucun moyen que ce soit vrai
+:v:normal:Alors comment se fait-il qu'à chaque visite, je puisse jouer avec un tout nouveau jouet ?
+:pr:normal:Oh mon dieu, Vétéran.
+:pr:confused:Écoute, quelque chose ne va pas ici, je le sais
+:pr:confused:J'ai l'impression que quelqu'un nous regarde
+:v:normal:Vous voulez dire, en plus d'eux tous ?
+:pr:confused:Uh Veteran
+:pr:confused:c'est juste une image grossièrement dessinée.
+:v:normal:Tu es du genre à parler
+:b:normal:Eh, que se passe-t-il
+:p:normal:Salut petit ami
+:p:normal:Je ne suis pas d'humeur, puis-je avoir des vibrations
+:b:excited:Oui bien sûr

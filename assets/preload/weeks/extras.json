@@ -1,0 +1,93 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Phantasm",
+			"corrupted",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Monovisor",
+			"legend-novisor",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Distraught",
+			"legend-novisor",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Ugh",
+			"player",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Fried Eggs",
+			"veteran",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Mong Balls",
+			"pmong",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Cone",
+			"legend-novisor",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Madness",
+			"legend-novisor",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Custom Week"
+}

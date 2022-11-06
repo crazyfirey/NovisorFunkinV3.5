@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RightCharacters.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyfriend Confused0000" x="0" y="0" width="400" height="421"/>
+	<SubTexture name="Boyfriend Confused0001" x="0" y="0" width="400" height="421"/>
+	<SubTexture name="Boyfriend Confused0002" x="500" y="0" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Confused0003" x="500" y="0" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Confused0004" x="995" y="0" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Confused0005" x="995" y="0" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Excited0000" x="1491" y="0" width="415" height="422" frameX="0" frameY="0" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Excited0001" x="1491" y="0" width="415" height="422" frameX="0" frameY="0" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Excited0002" x="2006" y="0" width="412" height="417" frameX="-1" frameY="-6" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Excited0003" x="2006" y="0" width="412" height="417" frameX="-1" frameY="-6" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Excited0004" x="2518" y="0" width="414" height="412" frameX="-1" frameY="-10" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Excited0005" x="2518" y="0" width="414" height="412" frameX="-1" frameY="-10" frameWidth="415" frameHeight="423"/>
+	<SubTexture name="Boyfriend Normal0000" x="3032" y="0" width="404" height="421"/>
+	<SubTexture name="Boyfriend Normal0001" x="3032" y="0" width="404" height="421"/>
+	<SubTexture name="Boyfriend Normal0002" x="3536" y="0" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Boyfriend Normal0003" x="3536" y="0" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Boyfriend Normal0004" x="4038" y="0" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Boyfriend Normal0005" x="4038" y="0" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="Boyfriend Pissed0000" x="4540" y="0" width="386" height="399" frameX="-1" frameY="-8" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Pissed0001" x="4540" y="0" width="386" height="399" frameX="-1" frameY="-8" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Pissed0002" x="5026" y="0" width="384" height="403" frameX="0" frameY="-4" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Pissed0003" x="5026" y="0" width="384" height="403" frameX="0" frameY="-4" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Pissed0004" x="5510" y="0" width="381" height="407" frameX="0" frameY="0" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Pissed0005" x="5510" y="0" width="381" height="407" frameX="0" frameY="0" frameWidth="387" frameHeight="407"/>
+	<SubTexture name="Boyfriend Shocked0000" x="0" y="522" width="400" height="421"/>
+	<SubTexture name="Boyfriend Shocked0001" x="500" y="522" width="400" height="421"/>
+	<SubTexture name="Boyfriend Shocked0002" x="1000" y="522" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Shocked0003" x="1495" y="522" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Shocked0004" x="1990" y="522" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="Boyfriend Shocked0005" x="2486" y="522" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="DuncanRight Confused0000" x="2982" y="522" width="353" height="415" frameX="-4" frameY="0" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Confused0001" x="2982" y="522" width="353" height="415" frameX="-4" frameY="0" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Confused0002" x="3435" y="522" width="354" height="408" frameX="-1" frameY="-7" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Confused0003" x="3435" y="522" width="354" height="408" frameX="-1" frameY="-7" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Confused0004" x="3889" y="522" width="354" height="400" frameX="0" frameY="-15" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Confused0005" x="3889" y="522" width="354" height="400" frameX="0" frameY="-15" frameWidth="357" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0000" x="4343" y="522" width="358" height="415" frameX="-3" frameY="0" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0001" x="4343" y="522" width="358" height="415" frameX="-3" frameY="0" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0002" x="4801" y="522" width="359" height="408" frameX="0" frameY="-7" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0003" x="4801" y="522" width="359" height="408" frameX="0" frameY="-7" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0004" x="5260" y="522" width="358" height="400" frameX="0" frameY="-15" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Excited0005" x="5260" y="522" width="358" height="400" frameX="0" frameY="-15" frameWidth="361" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0000" x="0" y="1043" width="354" height="415" frameX="-4" frameY="0" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0001" x="0" y="1043" width="354" height="415" frameX="-4" frameY="0" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0002" x="454" y="1043" width="355" height="408" frameX="-1" frameY="-7" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0003" x="454" y="1043" width="355" height="408" frameX="-1" frameY="-7" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0004" x="909" y="1043" width="355" height="400" frameX="0" frameY="-15" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Normal0005" x="909" y="1043" width="355" height="400" frameX="0" frameY="-15" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0000" x="1364" y="1043" width="364" height="415" frameX="-5" frameY="0" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0001" x="1364" y="1043" width="364" height="415" frameX="-5" frameY="0" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0002" x="1828" y="1043" width="366" height="408" frameX="-1" frameY="-7" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0003" x="1828" y="1043" width="366" height="408" frameX="-1" frameY="-7" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0004" x="2294" y="1043" width="366" height="400" frameX="0" frameY="-15" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Pissed0005" x="2294" y="1043" width="366" height="400" frameX="0" frameY="-15" frameWidth="369" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0000" x="2760" y="1043" width="354" height="415" frameX="-4" frameY="0" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0001" x="2760" y="1043" width="354" height="415" frameX="-4" frameY="0" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0002" x="3214" y="1043" width="354" height="408" frameX="-2" frameY="-7" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0003" x="3214" y="1043" width="354" height="408" frameX="-2" frameY="-7" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0004" x="3668" y="1043" width="355" height="400" frameX="0" frameY="-15" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="DuncanRight Shocked0005" x="3668" y="1043" width="355" height="400" frameX="0" frameY="-15" frameWidth="358" frameHeight="415"/>
+	<SubTexture name="PlayerRight Confuse0000" x="4123" y="1043" width="294" height="448" frameX="0" frameY="0" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Confuse0001" x="4123" y="1043" width="294" height="448" frameX="0" frameY="0" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Confuse0002" x="4517" y="1043" width="296" height="445" frameX="-1" frameY="-3" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Confuse0003" x="4517" y="1043" width="296" height="445" frameX="-1" frameY="-3" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Confuse0004" x="4913" y="1043" width="294" height="435" frameX="-1" frameY="-13" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Confuse0005" x="4913" y="1043" width="294" height="435" frameX="-1" frameY="-13" frameWidth="297" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0000" x="5307" y="1043" width="290" height="448" frameX="0" frameY="0" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0001" x="5307" y="1043" width="290" height="448" frameX="0" frameY="0" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0002" x="5697" y="1043" width="296" height="445" frameX="-6" frameY="-3" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0003" x="5697" y="1043" width="296" height="445" frameX="-6" frameY="-3" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0004" x="0" y="1591" width="299" height="442" frameX="-6" frameY="-6" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Excited0005" x="0" y="1591" width="299" height="442" frameX="-6" frameY="-6" frameWidth="305" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0000" x="399" y="1591" width="288" height="448" frameX="-12" frameY="0" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0001" x="399" y="1591" width="288" height="448" frameX="-12" frameY="0" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0002" x="787" y="1591" width="295" height="445" frameX="-3" frameY="-3" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0003" x="787" y="1591" width="295" height="445" frameX="-3" frameY="-3" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0004" x="1182" y="1591" width="294" height="435" frameX="0" frameY="-13" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Normal0005" x="1182" y="1591" width="294" height="435" frameX="0" frameY="-13" frameWidth="300" frameHeight="448"/>
+	<SubTexture name="PlayerRight Pissed0000" x="1576" y="1591" width="311" height="419" frameX="-3" frameY="-15" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Pissed0001" x="1576" y="1591" width="311" height="419" frameX="-3" frameY="-15" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Pissed0002" x="1987" y="1591" width="311" height="424" frameX="0" frameY="-10" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Pissed0003" x="1987" y="1591" width="311" height="424" frameX="0" frameY="-10" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Pissed0004" x="2398" y="1591" width="309" height="435" frameX="0" frameY="0" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Pissed0005" x="2398" y="1591" width="309" height="435" frameX="0" frameY="0" frameWidth="314" frameHeight="435"/>
+	<SubTexture name="PlayerRight Shocked0000" x="2807" y="1591" width="300" height="448" frameX="-15" frameY="0" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerRight Shocked0001" x="2807" y="1591" width="300" height="448" frameX="-15" frameY="0" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerRight Shocked0002" x="3207" y="1591" width="309" height="445" frameX="-9" frameY="-3" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerRight Shocked0003" x="3207" y="1591" width="309" height="445" frameX="-9" frameY="-3" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerRight Shocked0004" x="3616" y="1591" width="316" height="435" frameX="0" frameY="-13" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerRight Shocked0005" x="3616" y="1591" width="316" height="435" frameX="0" frameY="-13" frameWidth="318" frameHeight="448"/>
+	<SubTexture name="PlayerandBF Normal0000" x="4032" y="1591" width="541" height="484" frameX="-12" frameY="0" frameWidth="553" frameHeight="484"/>
+	<SubTexture name="PlayerandBF Normal0001" x="4032" y="1591" width="541" height="484" frameX="-12" frameY="0" frameWidth="553" frameHeight="484"/>
+	<SubTexture name="PlayerandBF Normal0002" x="4673" y="1591" width="549" height="481" frameX="-3" frameY="-3" frameWidth="553" frameHeight="484"/>
+	<SubTexture name="PlayerandBF Normal0003" x="4673" y="1591" width="549" height="481" frameX="-3" frameY="-3" frameWidth="553" frameHeight="484"/>
+	<SubTexture name="PlayerandBF Normal0004" x="5322" y="1591" width="553" height="471" frameX="0" frameY="-13" frameWidth="553" frameHeight="484"/>
+	<SubTexture name="PlayerandBF Normal0005" x="5322" y="1591" width="553" height="471" frameX="0" frameY="-13" frameWidth="553" frameHeight="484"/>
+</TextureAtlas>

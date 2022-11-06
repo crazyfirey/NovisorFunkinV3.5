@@ -1,0 +1,28 @@
+:pr:confused:Dieu je ne vois rien
+:pr:confused:Mieux vaut allumer ma lampe de poche
+:pav:normal:...
+:pav:scared:AHHHHHHH
+:pav:normal:Attendez chut, saviez-vous que Novisor est en perte et nous tue tous
+:pav:pissed:Hé, Arrête de dire tout ce que je dis.
+:pav:pissed:Moi? C'est toi qui copie
+:pav:pissed:Arrêtez, non vous! Sérieusement!
+:pav:pissed:MEC STOP !
+:v:confused:D'accord, mais surtout parce que je suis terrifié à l'idée que Novisor nous traque et nous emprisonne dans ce jeu pour toujours
+:pr:normal:Donc les rumeurs sont vraies, hein ?
+:pr:normal:Il y a vraiment un fantôme qui erre dans les couloirs du Skeld à la recherche de nouvelles victimes ?
+:v:normal:Ouais. Et pas un fantôme ordinaire qui aide à faire des tâches et des trucs.
+:v:normal:Un vrai fantôme légitime. Une âme oubliée qui patauge ici entre notre monde et l'afterline.
+:b:normal:Salut les gars!
+:p:normal:Salut BF !
+:b:normal:Alors, qu'est-ce que vous faites ?
+:p:normal:Rien, le vétéran parle d'un fantôme légitime
+:v:normal:C'est Novisor, Joueur. Novisor !
+:pr:normal:Oh d'accord
+:p:normal:Mais avez-vous connu Novisor BF ?
+:b:confused:Non?
+:p:normal:Dang, je n'ai jamais entendu parler de Novisor !
+:v:normal:C'est arrivé il y a longtemps, Novisor était un gars ordinaire comme vous ou moi.
+:pab:normal:Ah bon?
+:pr:normal:Je n'ai jamais entendu cette partie de l'histoire auparavant.
+:p:excited:Hey BF, j'ai besoin de groove pour ça !
+:b:excited:Aïe, c'est parti !

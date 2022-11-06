@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ghost left"
+		},
+		{
+			"offsets": [
+				-74,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ghost right"
+		},
+		{
+			"offsets": [
+				14,
+				131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ghost up"
+		},
+		{
+			"offsets": [
+				-66,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ghost down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ghost idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Novisor_Ghost_Assets",
+	"position": [
+		-200,
+		-30
+	],
+	"healthicon": "monster-novisor",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		0
+	],
+	"camera_position": [
+		190,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

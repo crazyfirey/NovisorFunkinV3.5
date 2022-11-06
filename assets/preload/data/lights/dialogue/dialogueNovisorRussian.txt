@@ -1,0 +1,8 @@
+:v:excited:Dang Player, это был грув и бах!
+:pr:excited:Спасибо, ветеран!
+:b:normal:Это было весело :)
+:v:excited:Я хочу попробовать получить немного грува!
+:pr:normal:Ок, вот микрофон.
+:v:normal:Спасибо Игрок!
+:v:excited:Alright BF, Let's get this groove on!!!
+:b:excited:Очень хорошо, ветеран, давайте включим этот грув!

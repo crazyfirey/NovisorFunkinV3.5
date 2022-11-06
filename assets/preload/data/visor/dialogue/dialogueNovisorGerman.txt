@@ -1,0 +1,30 @@
+:v:normal:Alles begann mit einem jungen College-Studenten namens Aiden, der auf einem Flohmarkt ein paar Einkäufe tätigte. Sehen Sie, dieser Typ hatte nicht viel Geld, aber er brauchte einen funktionierenden PC für Hausaufgaben und andere Sachen.
+:pr:confused:Wie Videospiele?
+:v:normal:Recht. Er dachte, dass er dort vielleicht etwas zu einem anständigen Preis finden könnte.
+:v:normal:Aber am Ende schade
+:v:normal:er zahlte den ultimativen Preis.
+:b:normal:was ist denn los.
+:b:confused:hm?
+:a:normal:Wow.
+:a:normal:Schau dir dieses Stück Müll an.
+:dr:normal:Es sieht vielleicht nicht nach viel aus.
+:dr:excited:Aber dieses Ding hat viele der neuesten Fortschritte in der Gaming-Technologie.
+:a:normal:Äh, cool.
+:a:confused:Du bist also der Typ, der das Ding verkauft?
+:a:confused:Was ist das für ein Computer? Ich sehe kein Branding.
+:dr:excited:Das liegt daran, dass es keine gibt.
+:dr:excited:Es ist zu 100 % maßgeschneidert.
+:dr:excited:Ich bastele an den Wochenenden, wissen Sie.
+:a:normal:Hmm, das ist cool.
+:b:normal:hallo
+:d:normal:Hallo wer bist du?
+:b:normal:Ich bin Freund, ich rappe Kampfleute und gebe Groove.
+:a:normal:Kalt.
+:b:normal:Wie heißen Sie
+:d:normal:Mein Name ist Duncan. Duncan Swearinger Cortez O’barclay Gottenheimer.
+:b:confused:...
+:d:normal:Ich wurde von einem polyamourösen Vierling großgezogen
+:b:normal:Übrigens, willst du etwas Groove?
+:d:confused:ähhh, sicher.
+:d:excited:Mal sehen, wie Sie tun können.
+:b:excited:ach!

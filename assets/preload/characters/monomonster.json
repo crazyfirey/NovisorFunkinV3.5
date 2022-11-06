@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-43
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "monomonster idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "monomonster left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "monomonster right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monomonster up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monomonster down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/monomonster",
+	"position": [
+		370,
+		60
+	],
+	"healthicon": "legend-novisor",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

@@ -1,0 +1,30 @@
+:v:normal:Tout a commencé avec un jeune étudiant nommé Aiden qui faisait du shopping dans un marché aux puces. Vous voyez, ce type n'avait pas beaucoup d'argent, mais il avait besoin de trouver un PC fonctionnel pour ses devoirs et d'autres choses.
+:pr:confused:Vous aimez les jeux vidéo ?
+:v:normal:Droit. Il pensait qu'il pourrait y trouver quelque chose à un prix décent.
+:v:normal:Mais tant pis au final
+:v:normal:il a payé le prix ultime.
+:b:normal:alors que se passe-t-il.
+:b:confused:hein?
+:a:normal:Ouah.
+:a:normal:Regardez ce morceau de ferraille.
+:dr:normal:Cela peut ne pas ressembler à grand-chose.
+:dr:excited:Mais cette chose possède bon nombre des dernières avancées en matière de technologie de jeu.
+:a:normal:Euh, cool.
+:a:confused:Alors c'est toi qui vends ce truc ?
+:a:confused:De quel type d'ordinateur s'agit-il ? Je ne vois aucune marque.
+:dr:excited:C'est parce qu'il n'y en a pas.
+:dr:excited:C'est 100% fait sur mesure.
+:dr:excited:Je bricole le week-end, tu vois.
+:a:normal:Hum, c'est cool.
+:b:normal:bonjour
+:d:normal:Salut, qui es-tu?
+:b:normal:Je suis petit ami, je rappe les gens de combat et je donne du groove.
+:a:normal:cool.
+:b:normal:comment tu t'appelles
+:d:normal:Je m'appelle Duncan. Duncan Swearinger Cortez O'barclay Gottenheimer.
+:b:confused:...
+:d:normal:J'ai été rasé par un quadruple polyamoureux
+:b:normal:au fait, tu veux du groove ?
+:d:confused:euh, bien sûr.
+:d:excited:Voyons comment vous pouvez faire.
+:b:excited:D'accord!

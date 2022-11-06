@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				58,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				13,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				22,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gentleman",
+	"position": [
+		-70,
+		140
+	],
+	"healthicon": "gentleman",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		26,
+		77
+	],
+	"camera_position": [
+		80,
+		110
+	],
+	"sing_duration": 9,
+	"scale": 0.9
+}

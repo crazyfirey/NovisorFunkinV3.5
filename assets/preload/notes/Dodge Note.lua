@@ -1,0 +1,41 @@
+function onCreate()
+	--Iterate over all notes
+	
+	for i = 0, getProperty('unspawnNotes.length')-1 do
+		--Check if the note is a Warning Note
+		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Dodge Note' then
+			setPropertyFromGroup('unspawnNotes', i, 'texture', 'notes/player'); --Change texture
+
+			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let Dad/Opponent notes get ignored
+				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has penalties
+			end
+		end
+	end
+	
+	function goodNoteHit(id, direction, noteType, isSustainNote)
+	if noteType == 'Dodge Note' then
+		triggerEvent('Screen Shake', "0.25, 0.0250", 0.25, 0.0150);
+		triggerEvent('Play Animation', 'dodge', 1);
+		playSound('attack', 1);
+
+		
+		end
+		
+	--debugPrint('Script started!')
+end
+
+
+-- Function called when you hit a note (after note hit calculations)
+-- id: The note member id, you can get whatever variable you want from this note, example: "getPropertyFromGroup('notes', id, 'strumTime')"
+-- noteData: 0 = Left, 1 = Down, 2 = Up, 3 = Right
+-- noteType: The note type string/tag
+-- isSustainNote: If it's a hold note, can be either true or false
+function noteMiss(id, noteData, noteType, isSustainNote)
+	--Check if the note is a Warning Note
+	if noteType == 'bullet notes' then
+		setProperty('health', 0); --Kill the player if not hit
+	end
+
+end
+
+end

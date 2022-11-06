@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="novisors.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghost instance 10000" x="0" y="0" width="1847" height="878" frameX="-7" frameY="0" frameWidth="1862" frameHeight="894"/>
+	<SubTexture name="ghost instance 10001" x="0" y="0" width="1847" height="878" frameX="-7" frameY="0" frameWidth="1862" frameHeight="894"/>
+	<SubTexture name="ghost instance 10002" x="0" y="978" width="1862" height="880" frameX="0" frameY="0" frameWidth="1862" frameHeight="894"/>
+	<SubTexture name="ghost instance 10003" x="0" y="978" width="1862" height="880" frameX="0" frameY="0" frameWidth="1862" frameHeight="894"/>
+	<SubTexture name="ghost instance 10004" x="0" y="1958" width="1850" height="894" frameX="-6" frameY="0" frameWidth="1862" frameHeight="894"/>
+	<SubTexture name="ghost instance 10005" x="0" y="1958" width="1850" height="894" frameX="-6" frameY="0" frameWidth="1862" frameHeight="894"/>
+</TextureAtlas>

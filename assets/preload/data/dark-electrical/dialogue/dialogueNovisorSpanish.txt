@@ -1,0 +1,30 @@
+:v:normal:Hablad por vosotros mismos, chicos
+:v:normal:¡Confieso!
+:v:pissed:¡Maté a Chiapad! o como sea que se llame
+:e:excited:¡Ah!
+:e:excited:Lo sabía.
+:pr:confused:Veterano, ¿qué estás haciendo?
+:v:normal:Prefiero que me lancen a un pozo sin fondo de desesperación que convertirme en un friki del No-Visor.
+:v:excited:Por cierto, ¡suerte con todo eso, amigos!
+:pr:scared:¡¡¡¡¡¡ESPERA NOOOO!!!!!!
+:e:normal:oh.
+:e:normal:Pensé que era el impostor
+:e:normal:Dijiste la verdad Jugador.
+:pr:pissed:¡TE LO DIJE!
+:pr:confused:¡Novisor es el verdadero enemigo aquí!
+:pr:confused:¡Ahora tenemos que terminar este juego antes de que sea demasiado tarde!
+:g:normal:Por lo que he oído, este tal Novisor no lo pondrá tan fácil. Tendremos que ganarle en su propio juego.
+:pr:confused:¡Mierda, las luces se apagaron!
+:g:normal:Déjame echar un vistazo.
+:g:excited:¡Ahí está! ¡Por fin!
+:g:excited:Oh, ¿esta pesadilla no terminará nunca?
+:g:normal:¡Cálmate, viejo loco, puedes hacerlo!
+:g:normal:El chico de los gorritos se está echando encima de ti.
+:b:normal:Hey
+:g:normal:Hey
+:g:normal:¿Qué estás haciendo aquí?
+:b:confused:Estoy aquí en la oficina para una tarea
+:g:normal:De acuerdo.
+:b:confused:¿Crees que podemos hacer algo ahora mismo?
+:g:normal:Claro
+:g:normal:pero que sea rápido

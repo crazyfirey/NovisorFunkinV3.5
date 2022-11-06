@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jrmong idle"
+		},
+		{
+			"offsets": [
+				-18,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jrmong up"
+		},
+		{
+			"offsets": [
+				90,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jrmong down"
+		},
+		{
+			"offsets": [
+				-19,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jrmong right"
+		},
+		{
+			"offsets": [
+				139,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jrmong left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jmong",
+	"position": [
+		130,
+		570
+	],
+	"healthicon": "jmong",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		100
+	],
+	"camera_position": [
+		90,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

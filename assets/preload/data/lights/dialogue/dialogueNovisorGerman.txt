@@ -1,0 +1,8 @@
+:v:excited:Dang Player, das war grooving und banging!
+:pr:excited:Danke Veteran!
+:b:normal:Das hat Spaß gemacht :)
+:v:excited:Ich will versuchen, etwas Groove zu bekommen!
+:pr:normal:Ok, hier ist das Mikro
+:v:normal:Danke Spieler!
+:v:excited:Alles klar BF, lass uns den Groove anwerfen!!!
+:b:excited:Sehr gut Veteran, lass uns den Groove anwerfen!
