@@ -1382,6 +1382,7 @@ class PlayState extends MusicBeatState
 		// healthBar
 		healthBar.visible = !ClientPrefs.hideicon;
 		healthBar.alpha = ClientPrefs.healthBarAlpha;
+      //        NovisorFunction.createColors = red; V4 STUFF
 		add(healthBar);
 		healthBarBG.sprTracker = healthBar;
 
@@ -1478,7 +1479,7 @@ class PlayState extends MusicBeatState
 		badTxt.cameras = [camHUD];
 		shitTxt.cameras = [camHUD];
 
-		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "BOTPLAY", 32);
+		botplayTxt = new FlxText(400, timeBarBG.y + 55, FlxG.width - 800, "", 32);
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		botplayTxt.scrollFactor.set();
 		botplayTxt.borderSize = 1.25;
