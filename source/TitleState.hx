@@ -627,7 +627,7 @@ class TitleState extends MusicBeatState
 					addMoreText('Funkin');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Remastered Update'); // credTextShit.text += '\nFunkin';
+					addMoreText('Version 3.5'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();
